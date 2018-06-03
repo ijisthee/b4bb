@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Enemy.js">
+    <Files>
+      <File FileName="Assets\Scripts\GameManager.js" Line="41" Column="72" />
+      <File FileName="Assets\Scripts\CollisionCheckScript.js" Line="3" Column="40" />
+      <File FileName="Assets\Scripts\CreateEnemysScript.js" Line="75" Column="86" />
+      <File FileName="Assets\Scripts\Enemy.js" Line="32" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

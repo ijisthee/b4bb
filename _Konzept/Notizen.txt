@@ -1,0 +1,59 @@
+Entweder Vorteil Leben auf sich zu haben
+
+shcewr zu erreichen
+
+
+höchste stufe der Zivilisation  -> umliegende anschleppen -> Terraforming -> Eigenschaften boosten
+
+Du wirst geupgradet
+
+
+
+gravitation
+enger kreis / echtzeit
+weiter kreis / slow update
+ganz weit / slow
+
+
+range in abhängigkeit zur Kamera
+
+
+array
+
+verschobene sachen gespeichert
+zurück geschobene Sache gelöscht
+
+
+WENN man es gehschafft hat eine stabile Umlaufbahn zu etabliueren, dann fliegt der Mond nur bei evtl. Kollision
+
+Zu große Gravitation -> mond fliegt auch raus
+
+
+wichtig für leben
+Größe (gesteinsasteroiden)
+Wasser (eisasterioden)
+rofstoffe
+- entsprechende (balancing) balance dieser 3 komponenten in Zusammenhang mit der green zone
+
+wenn kollision -> Wasserverlust/ rohstoffverlust
+
+Umlaufbahn um die Sonne zu erreichen -> Geschicklichkeitsspiel
+
+
+Ziel: LEBEN
+
+
+Sonnensystem modus/ Planetenmodus
+Sonne hat schon Planeten (nicht in der habitablen Zone)
+
+
+- Entstehung von Monden: 
+Bei Einschlag wird Ringobject (objecte) instanziert, die bei "ereignis" zu Mond werden können, ab bestimmer Planetengröße
+
+- Radius um Sonne herum, in der nichts gespawnt wird.
+
+Kleine Planetenspots die an den Endpositionen sich befinden und in einer Umlaufbahn und die Sonne Materie sammeln und zu Planeten werden.
+
+- Spieler selbst darf den Planeten selbst steuern
+
+- wenn Spieler gegen Plantenspot inkl Planet gegen fliegt, kann der Spotplanet rausfliegen, spieler verliert sehr viel masse -> Spot ist dann weg

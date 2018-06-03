@@ -1,0 +1,232 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf210
+{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;\f1\fnil\fcharset0 Menlo-Italic;}
+{\colortbl;\red255\green255\blue255;\red68\green68\blue68;\red153\green153\blue136;\red51\green100\blue164;
+\red245\green125\blue0;\red0\green150\blue149;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720
+
+\f0\fs24 \cf2 #pragma strict\
+\
+
+\f1\i \cf3 // Formen:\
+// 3 = Dreieck\
+// 4 = Viereck\
+// 5 = F\'fcfeck\
+// 6 = Sechseck\
+// 7 = Siebeneck\
+\
+// Farben:\
+// 1 = Lila\
+// 2 = Blau\
+// 3 = Gr\'fc\
+// 4 = Gelb\
+// 5 = Rot\
+\
+
+\f0\i0 \cf4 var\cf2  winLoose : GameObject; 
+\f1\i \cf3 // Statusanzeige\
+\
+\
+
+\f0\i0 \cf4 function\cf2  SSPES (spieler: GameObject, gegner: GameObject) \{\
+\
+	\cf4 var\cf2  player = spieler.GetComponent(Spieler);\
+	\cf4 var\cf2  enemy = gegner.GetComponent(Enemy);\
+	\cf4 var\cf2  msg = winLoose.GetComponent(UI.Text);\
+	\
+	
+\f1\i \cf3 // Objekte Zerst\'f6en bei WIN anschalten (Siehe Spielerscript)\
+
+\f0\i0 \cf2 	spieler.GetComponent(Spieler).bounce = \cf5 0\cf2 ;\
+		\
+	
+\f1\i \cf3 // Gegnerwerte abfragen\
+
+\f0\i0 \cf2 	\cf4 var\cf2  formE = enemy.form; 
+\f1\i \cf3 // Gegnerform\
+
+\f0\i0 \cf2 	\cf4 var\cf2  farbeE = enemy.farbe; 
+\f1\i \cf3 // Gegnergarbe\
+
+\f0\i0 \cf2 	\cf4 var\cf2  soundE = enemy.sound; 
+\f1\i \cf3 // Gegenersound\
+
+\f0\i0 \cf2 	\
+	
+\f1\i \cf3 // Spielerwerte abfragen\
+
+\f0\i0 \cf2 	\cf4 var\cf2  form = player.form; 
+\f1\i \cf3 // Gegnerform\
+
+\f0\i0 \cf2 	\cf4 var\cf2  farbe = player.farbe; 
+\f1\i \cf3 // Gegnergarbe\
+
+\f0\i0 \cf2 	\cf4 var\cf2  sound = player.sound; 
+\f1\i \cf3 // GegenersoundAbteilungsfestplatte\
+
+\f0\i0 \cf2 	\
+	
+\f1\i \cf3 // Text f\'fc Feedback **START**\
+
+\f0\i0 \cf2 	\cf4 var\cf2  txtForm : String = \cf5 ""\cf2 ;\
+	\cf4 var\cf2  txtFormE : String = \cf5 ""\cf2 ;\
+	\cf4 var\cf2  txtFarbe : String = \cf5 ""\cf2 ;\
+	\cf4 var\cf2  txtFarbeE : String = \cf5 ""\cf2 ;\
+	\
+	switch (form) \{\
+		case \cf5 3\cf2 : txtForm = \cf5 "Dreieck"\cf2 ; \cf6 break\cf2 ;\
+		case \cf5 4\cf2 : txtForm = \cf5 "Viereck"\cf2 ; \cf6 break\cf2 ;\
+		case \cf5 5\cf2 : txtForm = \cf5 "F\'fcfeck"\cf2 ; \cf6 break\cf2 ;\
+		case \cf5 6\cf2 : txtForm = \cf5 "Sechseck"\cf2 ; \cf6 break\cf2 ;\
+		case \cf5 7\cf2 : txtForm = \cf5 "Siebeneck"\cf2 ; \cf6 break\cf2 ;								\
+	\}\
+	switch (farbe) \{\
+		case \cf5 1\cf2 : txtFarbe = \cf5 "Lila"\cf2 ; \cf6 break\cf2 ;\
+		case \cf5 2\cf2 : txtFarbe = \cf5 "Blau"\cf2 ; \cf6 break\cf2 ;\
+		case \cf5 3\cf2 : txtFarbe = \cf5 "Gr\'fc"\cf2 ; \cf6 break\cf2 ;\
+		case \cf5 4\cf2 : txtFarbe = \cf5 "Gelb"\cf2 ; \cf6 break\cf2 ;\
+		case \cf5 5\cf2 : txtFarbe = \cf5 "Rot"\cf2 ; \cf6 break\cf2 ;								\
+	\}\
+	switch (formE) \{\
+		case \cf5 3\cf2 : txtFormE = \cf5 "Dreieck"\cf2 ; \cf6 break\cf2 ;\
+		case \cf5 4\cf2 : txtFormE = \cf5 "Viereck"\cf2 ; \cf6 break\cf2 ;\
+		case \cf5 5\cf2 : txtFormE = \cf5 "F\'fcfeck"\cf2 ; \cf6 break\cf2 ;\
+		case \cf5 6\cf2 : txtFormE = \cf5 "Sechseck"\cf2 ; \cf6 break\cf2 ;\
+		case \cf5 7\cf2 : txtFormE = \cf5 "Siebeneck"\cf2 ; \cf6 break\cf2 ;								\
+	\}\
+	switch (farbeE) \{\
+		case \cf5 1\cf2 : txtFarbeE = \cf5 "Lila"\cf2 ; \cf6 break\cf2 ;\
+		case \cf5 2\cf2 : txtFarbeE = \cf5 "Blau"\cf2 ; \cf6 break\cf2 ;\
+		case \cf5 3\cf2 : txtFarbeE = \cf5 "Gr\'fc"\cf2 ; \cf6 break\cf2 ;\
+		case \cf5 4\cf2 : txtFarbeE = \cf5 "Gelb"\cf2 ; \cf6 break\cf2 ;\
+		case \cf5 5\cf2 : txtFarbeE = \cf5 "Rot"\cf2 ; \cf6 break\cf2 ;								\
+	\}\
+	
+\f1\i \cf3 // Text f\'fc Feedback **ENDE**\
+
+\f0\i0 \cf2 	\
+	
+\f1\i \cf3 // Wenn der Spieler den Gegner mit FORM UND FARBE SCHL\'c4T\
+
+\f0\i0 \cf2 	\cf6 if\cf2  ((\
+		(form == \cf5 3\cf2  && formE == \cf5 5\cf2 ) ||\
+		(form == \cf5 3\cf2  && formE == \cf5 6\cf2 ) ||\
+		(form == \cf5 4\cf2  && formE == \cf5 3\cf2 ) ||\
+		(form == \cf5 4\cf2  && formE == \cf5 7\cf2 ) ||\
+		(form == \cf5 5\cf2  && formE == \cf5 4\cf2 ) ||\
+		(form == \cf5 5\cf2  && formE == \cf5 6\cf2 ) ||\
+		(form == \cf5 6\cf2  && formE == \cf5 4\cf2 ) ||\
+		(form == \cf5 6\cf2  && formE == \cf5 7\cf2 ) ||\
+		(form == \cf5 7\cf2  && formE == \cf5 3\cf2 ) ||\
+		(form == \cf5 7\cf2  && formE == \cf5 5\cf2 ))	&&\
+		(\
+		(farbe == \cf5 1\cf2  && farbeE == \cf5 3\cf2 ) ||\
+		(farbe == \cf5 1\cf2  && farbeE == \cf5 4\cf2 ) ||\
+		(farbe == \cf5 2\cf2  && farbeE == \cf5 5\cf2 ) ||\
+		(farbe == \cf5 2\cf2  && farbeE == \cf5 1\cf2 ) ||\
+		(farbe == \cf5 3\cf2  && farbeE == \cf5 4\cf2 ) ||\
+		(farbe == \cf5 3\cf2  && farbeE == \cf5 2\cf2 ) ||\
+		(farbe == \cf5 3\cf2  && farbeE == \cf5 5\cf2 ) ||\
+		(farbe == \cf5 4\cf2  && farbeE == \cf5 2\cf2 ) ||\
+		(farbe == \cf5 5\cf2  && farbeE == \cf5 1\cf2 ) ||\
+		(farbe == \cf5 5\cf2  && farbeE == \cf5 3\cf2 )))\{msg.text = txtFarbe+\cf5 " schl\'e4t "\cf2 +txtFarbeE+\cf5 " UND "\cf2 +txtForm+\cf5 " schl\'e4t "\cf2 +txtFormE+\cf5 "!!! YAY !!!"\cf2 ; player.form = formE; player.farbe = farbeE;\cf6 return\cf2 ;\}	\
+			\
+	
+\f1\i \cf3 // Spieler schl\'e4t Gegner in Farbe ODER Form\
+
+\f0\i0 \cf2 	\cf6 if\cf2  (form != formE && farbe != farbeE) \{\
+		\cf6 if\cf2  (\
+			(form == \cf5 3\cf2  && formE == \cf5 5\cf2 ) ||\
+			(form == \cf5 3\cf2  && formE == \cf5 6\cf2 ) ||\
+			(form == \cf5 4\cf2  && formE == \cf5 3\cf2 ) ||\
+			(form == \cf5 4\cf2  && formE == \cf5 7\cf2 ) ||\
+			(form == \cf5 5\cf2  && formE == \cf5 4\cf2 ) ||\
+			(form == \cf5 5\cf2  && formE == \cf5 6\cf2 ) ||\
+			(form == \cf5 6\cf2  && formE == \cf5 4\cf2 ) ||\
+			(form == \cf5 6\cf2  && formE == \cf5 7\cf2 ) ||\
+			(form == \cf5 7\cf2  && formE == \cf5 3\cf2 ) ||\
+			(form == \cf5 7\cf2  && formE == \cf5 5\cf2 )) \{msg.text = txtForm+\cf5 " schl\'e4t "\cf2 +txtFormE; player.form = formE;\cf6 return\cf2 ;\}\
+		\cf6 else\cf2  \cf6 if\cf2  (\
+				(farbe == \cf5 1\cf2  && farbeE == \cf5 3\cf2 ) ||\
+				(farbe == \cf5 1\cf2  && farbeE == \cf5 4\cf2 ) ||\
+				(farbe == \cf5 2\cf2  && farbeE == \cf5 5\cf2 ) ||\
+				(farbe == \cf5 2\cf2  && farbeE == \cf5 1\cf2 ) ||\
+				(farbe == \cf5 3\cf2  && farbeE == \cf5 4\cf2 ) ||\
+				(farbe == \cf5 3\cf2  && farbeE == \cf5 2\cf2 ) ||\
+				(farbe == \cf5 3\cf2  && farbeE == \cf5 5\cf2 ) ||\
+				(farbe == \cf5 4\cf2  && farbeE == \cf5 2\cf2 ) ||\
+				(farbe == \cf5 5\cf2  && farbeE == \cf5 1\cf2 ) ||\
+				(farbe == \cf5 5\cf2  && farbeE == \cf5 3\cf2 )) \{msg.text = txtFarbe+\cf5 " schl\'e4t "\cf2 +txtFarbeE; player.farbe = farbeE;\cf6 return\cf2 ;\}\
+	\}\
+	\
+	
+\f1\i \cf3 // Spieler schl\'e4t Gegner in Farbe -- Form ist gleich\
+
+\f0\i0 \cf2 	\cf6 if\cf2  (form == formE && farbe != farbeE) \{\
+		\cf6 if\cf2  ((farbe == \cf5 1\cf2  && farbeE == \cf5 3\cf2 ) ||\
+			(farbe == \cf5 1\cf2  && farbeE == \cf5 4\cf2 ) ||\
+			(farbe == \cf5 2\cf2  && farbeE == \cf5 5\cf2 ) ||\
+			(farbe == \cf5 2\cf2  && farbeE == \cf5 1\cf2 ) ||\
+			(farbe == \cf5 3\cf2  && farbeE == \cf5 4\cf2 ) ||\
+			(farbe == \cf5 3\cf2  && farbeE == \cf5 2\cf2 ) ||\
+			(farbe == \cf5 3\cf2  && farbeE == \cf5 5\cf2 ) ||\
+			(farbe == \cf5 4\cf2  && farbeE == \cf5 2\cf2 ) ||\
+			(farbe == \cf5 5\cf2  && farbeE == \cf5 1\cf2 ) ||\
+			(farbe == \cf5 5\cf2  && farbeE == \cf5 3\cf2 )) \{msg.text = txtFarbe+\cf5 " schl\'e4t "\cf2 +txtFarbeE+\cf5 " -- Form: Unentschieden"\cf2 ; player.farbe = farbeE;\cf6 return\cf2 ;\}	\
+	\}\
+	
+\f1\i \cf3 // Spieler schl\'e4t Gegner in Form -- Farbe ist gleich\
+
+\f0\i0 \cf2 	\cf6 if\cf2  (form != formE && farbe == farbeE) \{\
+		\cf6 if\cf2  ((form == \cf5 3\cf2  && formE == \cf5 5\cf2 ) ||\
+			(form == \cf5 3\cf2  && formE == \cf5 6\cf2 ) ||\
+			(form == \cf5 4\cf2  && formE == \cf5 3\cf2 ) ||\
+			(form == \cf5 4\cf2  && formE == \cf5 7\cf2 ) ||\
+			(form == \cf5 5\cf2  && formE == \cf5 4\cf2 ) ||\
+			(form == \cf5 5\cf2  && formE == \cf5 6\cf2 ) ||\
+			(form == \cf5 6\cf2  && formE == \cf5 4\cf2 ) ||\
+			(form == \cf5 6\cf2  && formE == \cf5 7\cf2 ) ||\
+			(form == \cf5 7\cf2  && formE == \cf5 3\cf2 ) ||\
+			(form == \cf5 7\cf2  && formE == \cf5 5\cf2 )) \{msg.text = txtForm+\cf5 " schl\'e4t "\cf2 +txtFormE+\cf5 " -- Farbe: Unentschieden"\cf2 ; player.form = formE;\cf6 return\cf2 ;\}	\
+	\}\
+	\
+	
+\f1\i \cf3 // Wenn beim Spieler FORM UND FARBE GLEICH dem Gegner sind\
+
+\f0\i0 \cf2 	\cf6 if\cf2  (form == formE && farbe == farbeE) \{\
+		\
+		
+\f1\i \cf3 // Bewegungsrichtung heraus finden\
+
+\f0\i0 \cf2 		\cf4 var\cf2  heading = gegner.transform.position - spieler.transform.position;\
+		\cf4 var\cf2  distance = heading.magnitude;\
+		\cf4 var\cf2  direction = heading/distance;\
+		\
+		
+\f1\i \cf3 // Bewegungsrichtung umkehren\
+
+\f0\i0 \cf2 		direction.x *= -\cf5 1\cf2 ;\
+		direction.y *= -\cf5 1\cf2 ;\
+		\
+		
+\f1\i \cf3 // Spieler an Objekt abprallen lassen\
+
+\f0\i0 \cf2 		spieler.GetComponent(Rigidbody2D).AddForce(direction * \cf5 100\cf2 );\
+		\
+		
+\f1\i \cf3 // Objekte NICHT Zerst\'f6en (Siehe Spielerscript)\
+
+\f0\i0 \cf2 		spieler.GetComponent(Spieler).bounce = \cf5 1\cf2 ;\
+	\}	\
+		\
+	\cf6 else\cf2  \{player.loose = \cf5 1\cf2 ;\}\
+\
+			\
+			\
+			\
+			\
+	\
+	\
+\}\
+}

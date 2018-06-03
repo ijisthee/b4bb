@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/VergleichSSPES.js">
+    <Files>
+      <File FileName="Assets/Scripts/GameManager.js" Line="138" Column="1" />
+      <File FileName="Assets/Scripts/Enemy.js" Line="75" Column="1" />
+      <File FileName="Assets/Scripts/Settings.js" Line="5" Column="7" />
+      <File FileName="Assets/Scripts/VergleichSSPES.js" Line="118" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

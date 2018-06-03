@@ -1,0 +1,4596 @@
+Initialize engine version: 4.6.0f3 (30840d631a27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 560 Ti   (ID=0x1200)
+    Vendor:   NVIDIA
+    VRAM:     977 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Am0theKing\Dropbox\Unitygame\Before Big Bang\_Alpha\b4bb_0.2.0.5.1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Am0theKing\Dropbox\Unitygame\Before Big Bang\_Alpha\b4bb_0.2.0.5.1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Am0theKing\Dropbox\Unitygame\Before Big Bang\_Alpha\b4bb_0.2.0.5.1_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Am0theKing\Dropbox\Unitygame\Before Big Bang\_Alpha\b4bb_0.2.0.5.1_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Am0theKing\Dropbox\Unitygame\Before Big Bang\_Alpha\b4bb_0.2.0.5.1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Am0theKing\Dropbox\Unitygame\Before Big Bang\_Alpha\b4bb_0.2.0.5.1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.046 seconds
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\Am0theKing\Dropbox\Unitygame\Before Big Bang\_Alpha\b4bb_0.2.0.5.1_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Am0theKing\Dropbox\Unitygame\Before Big Bang\_Alpha\b4bb_0.2.0.5.1_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Am0theKing\Dropbox\Unitygame\Before Big Bang\_Alpha\b4bb_0.2.0.5.1_Data\Managed\Boo.Lang.dll (this message is harmless)
+UnloadTime: 7.851230 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 218.
+Total: 2.825329 ms (FindLiveObjects: 0.016701 ms CreateObjectMapping: 0.013299 ms MarkObjects: 0.224232 ms  DeleteObjects: 0.972086 ms)
+
+Platform assembly: C:\Users\Am0theKing\Dropbox\Unitygame\Before Big Bang\_Alpha\b4bb_0.2.0.5.1_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+This collider has some illegal parameters. Choose 'Reset' in the component popup menu to fix it.
+ 
+(Filename:  Line: 257)
+
+This collider has some illegal parameters. Choose 'Reset' in the component popup menu to fix it.
+ 
+(Filename:  Line: 257)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+This collider has some illegal parameters. Choose 'Reset' in the component popup menu to fix it.
+ 
+(Filename:  Line: 257)
+
+This collider has some illegal parameters. Choose 'Reset' in the component popup menu to fix it.
+ 
+(Filename:  Line: 257)
+
+This collider has some illegal parameters. Choose 'Reset' in the component popup menu to fix it.
+ 
+(Filename:  Line: 257)
+
+This collider has some illegal parameters. Choose 'Reset' in the component popup menu to fix it.
+ 
+(Filename:  Line: 257)
+
+This collider has some illegal parameters. Choose 'Reset' in the component popup menu to fix it.
+ 
+(Filename:  Line: 257)
+
+This collider has some illegal parameters. Choose 'Reset' in the component popup menu to fix it.
+ 
+(Filename:  Line: 257)
+
+This collider has some illegal parameters. Choose 'Reset' in the component popup menu to fix it.
+ 
+(Filename:  Line: 257)
+
+This collider has some illegal parameters. Choose 'Reset' in the component popup menu to fix it.
+ 
+(Filename:  Line: 257)
+
+This collider has some illegal parameters. Choose 'Reset' in the component popup menu to fix it.
+ 
+(Filename:  Line: 257)
+
+This collider has some illegal parameters. Choose 'Reset' in the component popup menu to fix it.
+ 
+(Filename:  Line: 257)
+
+UnloadTime: 1.042603 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 250.
+Total: 0.926930 ms (FindLiveObjects: 0.009278 ms CreateObjectMapping: 0.007113 ms MarkObjects: 0.161447 ms  DeleteObjects: 0.023815 ms)
+
+UnloadTime: 1.560658 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 218.
+Total: 1.418695 ms (FindLiveObjects: 0.007113 ms CreateObjectMapping: 0.006804 ms MarkObjects: 0.123405 ms  DeleteObjects: 0.512796 ms)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+This collider has some illegal parameters. Choose 'Reset' in the component popup menu to fix it.
+ 
+(Filename:  Line: 257)
+
+This collider has some illegal parameters. Choose 'Reset' in the component popup menu to fix it.
+ 
+(Filename:  Line: 257)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+This collider has some illegal parameters. Choose 'Reset' in the component popup menu to fix it.
+ 
+(Filename:  Line: 257)
+
+This collider has some illegal parameters. Choose 'Reset' in the component popup menu to fix it.
+ 
+(Filename:  Line: 257)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+This collider has some illegal parameters. Choose 'Reset' in the component popup menu to fix it.
+ 
+(Filename:  Line: 257)
+
+This collider has some illegal parameters. Choose 'Reset' in the component popup menu to fix it.
+ 
+(Filename:  Line: 257)
+
+This collider has some illegal parameters. Choose 'Reset' in the component popup menu to fix it.
+ 
+(Filename:  Line: 257)
+
+This collider has some illegal parameters. Choose 'Reset' in the component popup menu to fix it.
+ 
+(Filename:  Line: 257)
+
+This collider has some illegal parameters. Choose 'Reset' in the component popup menu to fix it.
+ 
+(Filename:  Line: 257)
+
+This collider has some illegal parameters. Choose 'Reset' in the component popup menu to fix it.
+ 
+(Filename:  Line: 257)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+This collider has some illegal parameters. Choose 'Reset' in the component popup menu to fix it.
+ 
+(Filename:  Line: 257)
+
+This collider has some illegal parameters. Choose 'Reset' in the component popup menu to fix it.
+ 
+(Filename:  Line: 257)
+
+This collider has some illegal parameters. Choose 'Reset' in the component popup menu to fix it.
+ 
+(Filename:  Line: 257)
+
+This collider has some illegal parameters. Choose 'Reset' in the component popup menu to fix it.
+ 
+(Filename:  Line: 257)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+This collider has some illegal parameters. Choose 'Reset' in the component popup menu to fix it.
+ 
+(Filename:  Line: 257)
+
+This collider has some illegal parameters. Choose 'Reset' in the component popup menu to fix it.
+ 
+(Filename:  Line: 257)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+Invalid parameter because it was infinity or nan.
+ 
+(Filename:  Line: 155)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+dest.radius>=0.0f
+ 
+(Filename: ..\..\Core\Common\src\SphereShape.cpp Line: 96)
+
+This collider has some illegal parameters. Choose 'Reset' in the component popup menu to fix it.
+ 
+(Filename:  Line: 257)
+
+This collider has some illegal parameters. Choose 'Reset' in the component popup menu to fix it.
+ 
+(Filename:  Line: 257)
+
+This collider has some illegal parameters. Choose 'Reset' in the component popup menu to fix it.
+ 
+(Filename:  Line: 257)
+
+This collider has some illegal parameters. Choose 'Reset' in the component popup menu to fix it.
+ 
+(Filename:  Line: 257)
+
+This collider has some illegal parameters. Choose 'Reset' in the component popup menu to fix it.
+ 
+(Filename:  Line: 257)
+
+This collider has some illegal parameters. Choose 'Reset' in the component popup menu to fix it.
+ 
+(Filename:  Line: 257)
+
+This collider has some illegal parameters. Choose 'Reset' in the component popup menu to fix it.
+ 
+(Filename:  Line: 257)
+
+This collider has some illegal parameters. Choose 'Reset' in the component popup menu to fix it.
+ 
+(Filename:  Line: 257)
+
+This collider has some illegal parameters. Choose 'Reset' in the component popup menu to fix it.
+ 
+(Filename:  Line: 257)
+
+This collider has some illegal parameters. Choose 'Reset' in the component popup menu to fix it.
+ 
+(Filename:  Line: 257)
+
